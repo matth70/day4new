@@ -1,0 +1,25 @@
+.jumbotron {
+  text-align: center;
+  background-color: purple;
+  color: black;
+}
+
+.well {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.btn-group {
+  margin-left: 47%;
+}
+
+.btn-primary {
+  background-color: black;
+  color: white;
+}
+
+.btn-default {
+  background-color: black;
+  color: white;
+}
